@@ -15,4 +15,7 @@ To understand how we can break down a signal into sine waves,we need to know abo
 # Time- Frequency Pairs
 Signals can be represented as sine waves, which have several attributes. Now, let’s learn to plot signals in the frequency domain. While the time domain demonstrates how a signal changes over time, the frequency domain displays how much of a signal rests in which frequencies.
 https://github.com/user-attachments/assets/438c1bd9-92a6-4832-8ae6-5d59fc2c2e62
-
+# Fourier Transformation 
+The Fourier Transform is a mathematical technique that transforms a time-domain signal into its corresponding frequency-domain representation. It decomposes a function or signal into its constituent frequencies, showing how much of each frequency is present. This is especially useful in analyzing periodic signals, filtering, and signal processing.The inverse Fourier Transform can be used to convert the frequency-domain signal back to the time-domain.
+# Fast Fourier Transform (FFT)
+The Fast Fourier Transform  is simply an algorithm to compute the discrete Fourier Transform . The FFT is a function with one input and one output .It converts a signal from time to frequency:
