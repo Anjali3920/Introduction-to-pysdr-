@@ -19,3 +19,5 @@ https://github.com/user-attachments/assets/438c1bd9-92a6-4832-8ae6-5d59fc2c2e62
 The Fourier Transform is a mathematical technique that transforms a time-domain signal into its corresponding frequency-domain representation. It decomposes a function or signal into its constituent frequencies, showing how much of each frequency is present. This is especially useful in analyzing periodic signals, filtering, and signal processing.The inverse Fourier Transform can be used to convert the frequency-domain signal back to the time-domain.
 # Fast Fourier Transform (FFT)
 The Fast Fourier Transform  is simply an algorithm to compute the discrete Fourier Transform . The FFT is a function with one input and one output .It converts a signal from time to frequency:
+(https://github.com/user-attachments/assets/fceb5b15-5c59-4803-aee1-21fb7349d680)
+
