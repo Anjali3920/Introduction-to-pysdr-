@@ -14,4 +14,5 @@ To understand how we can break down a signal into sine waves,we need to know abo
 3.Phase:phase representation how the sine wave is shifted in time , anywhere from 0 to 360 degrees.
 # Time- Frequency Pairs
 Signals can be represented as sine waves, which have several attributes. Now, let’s learn to plot signals in the frequency domain. While the time domain demonstrates how a signal changes over time, the frequency domain displays how much of a signal rests in which frequencies.
+https://github.com/user-attachments/assets/438c1bd9-92a6-4832-8ae6-5d59fc2c2e62
 
