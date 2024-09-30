@@ -1,4 +1,7 @@
-
+import numpy as np
+t = np.arange(100)
+s = np.sin(0.15*2*np.pi*t)¶
+Now that we have learned about what an FFT is and how the output is represented, let’s actually look at some Python code and use Numpy’s FFT function, np.fft.fft(). It is recommended that you use a full Python console/IDE on your computer, but in a pinch you can use the online web-based Python console linked at the bottom of the navigation bar on the left
 # Introduction-to-pysdr-
 # SDR ( Software - Defined Radio)
 It refers to a device that you can plug an antenna into and receive RF signals , with the digitalized RF samples being sent to a computer for processing or recording .many SDR also have transmit capabilities .
@@ -21,4 +24,7 @@ The Fourier Transform is a mathematical technique that transforms a time-domain 
 The Fast Fourier Transform  is simply an algorithm to compute the discrete Fourier Transform . The FFT is a function with one input and one output .It converts a signal from time to frequency:
 (https://github.com/user-attachments/assets/fceb5b15-5c59-4803-aee1-21fb7349d680)
 # FFT in python 
-
+Now that we have learned about what an FFT is and how the output is represented, let’s actually look at some Python code and use Numpy’s FFT function, np.fft.fft(). It is recommended that you use a full Python console/IDE on your computer, but in a pinch you can use the online web-based Python console linked at the bottom of the navigation bar on the left.
+import numpy as np
+t = np.arange(100)
+s = np.sin(0.15*2*np.pi*t)
