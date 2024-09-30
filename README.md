@@ -20,4 +20,5 @@ The Fourier Transform is a mathematical technique that transforms a time-domain 
 # Fast Fourier Transform (FFT)
 The Fast Fourier Transform  is simply an algorithm to compute the discrete Fourier Transform . The FFT is a function with one input and one output .It converts a signal from time to frequency:
 (https://github.com/user-attachments/assets/fceb5b15-5c59-4803-aee1-21fb7349d680)
+# FFT in python 
 
