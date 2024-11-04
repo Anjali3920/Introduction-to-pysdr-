@@ -30,7 +30,7 @@ hello world
 
 
 
-#NETWORKING VIRTUALIZATION 
+# NETWORKING VIRTUALIZATION 
 Networking virtualization is the process of creating multiple virtual networks on top of a physical network infrastructure. This allows for the efficient allocation of network resources, enabling multiple isolated networks to run on the same physical hardware. 
 
 Networking Virtualization
@@ -39,12 +39,14 @@ Networking Virtualization
 
 Definition: Networking virtualization refers to the abstraction of network resources, enabling them to be decoupled from physical devices and operated through software.
 
-Purpose: It aims to improve the flexibility, scalability, and efficiency of network resources in an organization, especially in data centers and cloud environments.
+# Purpose: 
+It aims to improve the flexibility, scalability, and efficiency of network resources in an organization, especially in data centers and cloud environments.
 
-Types of Network Virtualization: Explain types, including Virtual LAN (VLAN), Virtual Private Network (VPN), and Software-Defined Networking (SDN), as each plays a role in creating virtualized networks.
+# Types of Network Virtualization: 
+Explain types, including Virtual LAN (VLAN), Virtual Private Network (VPN), and Software-Defined Networking (SDN), as each plays a role in creating virtualized networks.
 
 
-2. Key Components of Networking Virtualization
+# 2. Key Components of Networking Virtualization
 
 Virtual Network Interface Cards (vNICs): vNICs allow virtual machines (VMs) to connect to virtual networks, creating a seamless interface between VMs and the physical network.
 
@@ -53,7 +55,7 @@ Network Function Virtualization (NFV): NFV replaces physical network devices, li
 Software-Defined Networking (SDN): SDN separates the control plane from the data plane, allowing centralized management of network traffic through software.
 
 
-3. Advantages of Networking Virtualization
+# 3. Advantages of Networking Virtualization
 
 Resource Efficiency: Virtualization helps in utilizing the full capacity of physical resources, reducing waste and operating costs.
 
@@ -62,7 +64,7 @@ Scalability: Virtual networks can be scaled up or down without the need for sign
 Isolation and Security: Virtual networks provide isolated environments, enhancing security by preventing cross-network access unless explicitly allowed.
 
 
-4. Use Cases of Networking Virtualization
+# 4. Use Cases of Networking Virtualization
 
 Data Centers: Virtualized networks are essential in large data centers for managing complex environments with numerous VMs and containers.
 
@@ -80,7 +82,7 @@ Performance Overheads: Virtualization may introduce latency or bandwidth overhea
 Security Vulnerabilities: Virtual networks, if not properly configured, can be susceptible to attacks that exploit the underlying infrastructure.
 
 
-6. Future of Networking Virtualization
+# 6. Future of Networking Virtualization
 
 Advancements in SDN and NFV: Emerging technologies in SDN and NFV
 
